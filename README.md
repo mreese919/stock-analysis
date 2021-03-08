@@ -12,7 +12,7 @@ of having positive returns.
 
 ##The results of the analysis is that though many stocks had high returns in 2017. In 2018 many of these stocks lost those 
 
-gained returns with the exception of ticker (ENPH). Ticker (ENPH) looks to be a better investment with better returns based
+gained returns with the exception of ticker (ENPH) And ticker (RUN). Ticker (ENPH) and ticker (RUN) looks to be a better investment with better returns based
 
 off the years analysized. 
 
@@ -25,6 +25,7 @@ off the years analysized.
 
 
 
+![Screenshot (8)](https://user-images.githubusercontent.com/78933826/110260258-5fcd6a00-7f79-11eb-8177-b341a6bad139.png)
 
 
 
